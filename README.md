@@ -1,0 +1,1 @@
+This project contains javascript file and to run it write the name of the file and enter in the terminal
